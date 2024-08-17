@@ -1,2 +1,2 @@
 # Timepieces
-This tool enables display the current time on a clock website online.
+This web app enables display the current time on a clock online.
