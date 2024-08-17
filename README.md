@@ -1,2 +1,2 @@
 # Timepieces
-This web app enables display the current time on a clock online.
+Simple desktop app is able to displaying the current time on clock in realtime.
